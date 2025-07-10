@@ -174,3 +174,45 @@ nav {
 }
 
 /*Productive users end*/
+
+.user-rating-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 137px;
+}
+.user-rating-parent {
+  height: 342px;
+  width: 1140px;
+}
+.user-rating-title {
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+}
+
+.ratng-cart-container {
+  width: 1140px;
+  height: 243px;
+  margin-top: 50px;
+  display: flex;
+  gap: 20px;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+}
+
+.rating-cart {
+  width: 366px;
+  height: 243px;
+  border-radius: 14px;
+  background-color: white;
+  padding: 24px 0 0 24px;
+}
+.cart-info {
+  display: flex;
+  gap: 12px;
+}
+
+/* user rating cart end*/
