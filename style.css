@@ -124,3 +124,53 @@ nav {
   background-color: #0b0942;
 }
 /*================see it action end*/
+
+.productive-user {
+  display: flex;
+  justify-content: center;
+  margin-top: 116px;
+}
+
+.productive-parent {
+  height: 306px;
+  width: 1140px;
+  background-color: #4d47ff27;
+  border-radius: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.productive-content {
+  height: 206px;
+  width: 856px;
+  text-align: center;
+}
+.productive-title {
+  font-size: 38px;
+  font-weight: bold;
+  font-family: "raleWay";
+  color: #252432;
+}
+
+.productive-counting-parent {
+  margin-top: 40px;
+}
+
+.productive-countingTitle {
+  font-weight: bold;
+  font-size: 80px;
+  color: #4e47ff;
+}
+.productive-desc {
+  font-size: 20px;
+  color: #00000077;
+}
+.counting-perent {
+  display: flex;
+  height: 121px;
+  width: 856px;
+  justify-content: space-between;
+}
+
+/*Productive users end*/
