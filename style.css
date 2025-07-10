@@ -216,3 +216,31 @@ nav {
 }
 
 /* user rating cart end*/
+
+.readyToFocus-parent {
+  display: flex;
+  justify-content: center;
+  margin-top: 137px;
+}
+.readyToFocus-container {
+  height: 696px;
+  width: 1140px;
+  border-radius: 14px;
+  background-color: white;
+  text-align: center;
+}
+.readyToFocus-title {
+  font-weight: bold;
+  font-size: 50px;
+  padding-top: 71px;
+}
+.readyToFocus-img-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.readyToFocus-img {
+  width: 840px;
+  height: 364px;
+  border-radius: 48px;
+}
